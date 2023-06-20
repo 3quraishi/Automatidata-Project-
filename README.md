@@ -11,7 +11,9 @@ The purpose of this project is to explore and analyze the New York City TLC data
 
 ## Executive Summary
 The Executive Summary provides a concise overview of the key findings and insights derived from the analysis of the New York City TLC dataset. It highlights the main observations and outcomes, offering a snapshot of the project's outcomes.
-
+## Technologies
+* Python
+* Pandas
 ## Acknowledgments
 I would like to express my sincere gratitude to Google for offering the "Get Started in Python" course. This course has been instrumental in providing me with the knowledge and skills required to undertake this project. Through this coursework, I have gained valuable experience in data analytics and developed a strong foundation in Python programming.
 
