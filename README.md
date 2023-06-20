@@ -12,18 +12,19 @@ The purpose of this project is to explore and analyze the New York City TLC data
 ## Executive Summary
 The Executive Summary provides a concise overview of the key findings and insights derived from the analysis of the New York City TLC dataset. It highlights the main observations and outcomes, offering a snapshot of the project's outcomes.
 ## Technologies
-* Python
-* Pandas
-## Acknowledgments
-I would like to express my sincere gratitude to Google for offering the "Get Started in Python" course. This course has been instrumental in providing me with the knowledge and skills required to undertake this project. Through this coursework, I have gained valuable experience in data analytics and developed a strong foundation in Python programming.
+* Python version 3.11.0
+* Pandas version 1.4.2
+
 
 ## Sharing and Collaboration
 By sharing my Jupyter Notebook code, my goal is not only to showcase my capabilities as a data analyst but also to inspire others in their data analysis journey. I invite you to explore the insights and techniques presented in this document. Your feedback, discussions, and collaboration are highly encouraged as they contribute to fostering a constructive and collaborative learning environment.
 
-Thank you for taking the time to visit my repository and engage with my work. I hope you find it insightful and valuable.
+Thank you for taking the time to visit my repository and engage with my work. I hope you find it insightful and valuable!
 
-
-
+## Acknowledgments
+I would like to express my sincere gratitude to Google for offering the "Get Started in Python" course. This course has been instrumental in providing me with the knowledge and skills required to undertake this project. Through this coursework, I have gained valuable experience in data analytics and developed a strong foundation in Python programming.
+## Documentation
+[Link to the Get Started with Python course page](https://www.coursera.org/learn/get-started-with-python?=null&index=prod_all_launched_products_term_optimization)
 
 
 
