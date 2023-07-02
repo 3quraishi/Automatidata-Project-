@@ -24,7 +24,7 @@ Thank you for taking the time to visit my repository and engage with my work. I 
 ## Acknowledgments
 I would like to express my sincere gratitude to Google for offering the "Get Started in Python" course. This course has been instrumental in providing me with the knowledge and skills required to undertake this project. Through this coursework, I have gained valuable experience in data analytics and developed a strong foundation in Python programming.
 ## Documentation
-[Link to the Get Started with Python course page](https://www.coursera.org/learn/get-started-with-python?=null&index=prod_all_launched_products_term_optimization)
+[Link to the Google "Get Started with Python" course page](https://www.coursera.org/learn/get-started-with-python?=null&index=prod_all_launched_products_term_optimization)
 
 
 
